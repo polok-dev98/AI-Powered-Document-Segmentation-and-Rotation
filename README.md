@@ -53,13 +53,14 @@ Ensure you have **Python 3.10+** and **Docker** installed.
 
 ### 📸 Output
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bb9866b5-8134-49b1-80fd-965df3bd248b" width="70%" style="padding:20px; margin:20px;">
-  <img src="https://github.com/user-attachments/assets/83772468-e35d-4042-9d3a-92836395e8ba" width="70%" style="padding:20px; margin:20px;">
-  <img src="https://github.com/user-attachments/assets/8fb426f8-9d2c-4d81-81cf-171e29b66495" width="70%" style="padding:20px; margin:30px;">
-  <img src="https://github.com/user-attachments/assets/fd5f3946-1daa-4dd0-ab49-9e8a66eec35b" width="70%" style="padding:20px; margin:10px;">
-  <img src="https://github.com/user-attachments/assets/ccbd0138-4548-4567-974f-330ff534557f" width="70%" style="padding:20px; margin:10px;">
-  <img src="https://github.com/user-attachments/assets/601681f7-1a03-454f-9c9e-3830aa07d32d" width="70%" style="padding:20px; margin:10px;">
+  <img src="https://github.com/user-attachments/assets/bb9866b5-8134-49b1-80fd-965df3bd248b" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
+  <img src="https://github.com/user-attachments/assets/83772468-e35d-4042-9d3a-92836395e8ba" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
+  <img src="https://github.com/user-attachments/assets/8fb426f8-9d2c-4d81-81cf-171e29b66495" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
+  <img src="https://github.com/user-attachments/assets/fd5f3946-1daa-4dd0-ab49-9e8a66eec35b" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
+  <img src="https://github.com/user-attachments/assets/ccbd0138-4548-4567-974f-330ff534557f" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
+  <img src="https://github.com/user-attachments/assets/601681f7-1a03-454f-9c9e-3830aa07d32d" width="70%" style="padding:20px; margin:10px; display:block; margin-bottom:20px;">
 </div>
+
 
 
 ### 🐳 Docker Setup  
