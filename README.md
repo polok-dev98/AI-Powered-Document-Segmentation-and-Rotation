@@ -1,4 +1,4 @@
-# **SmartDocFix** – Intelligent Document Segmentation & Rotation Correction  
+# **SmartDocuFix** – Intelligent Document Detection & Rotation Correction 
 
 This project is designed to segment documents from images using the **YOLOv11 segmentation model** and correct their orientation if they are rotated, similar to **CamScanner**. The model is trained on various types of documents and integrated into a **Flask** web application for easy usage.  
 
